@@ -1,10 +1,10 @@
 {
   "name": "xenious-cordova-plugin-splashscreen",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Cordova Splashscreen Plugin",
   "types": "./types/index.d.ts",
   "cordova": {
-    "id": "cordova-plugin-splashscreen",
+    "id": "xenious-cordova-plugin-splashscreen",
     "platforms": [
       "android",
       "ubuntu",
